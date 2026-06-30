@@ -1,12 +1,6 @@
 ---
 # SOS Recession Detector – Technical Documentation
 
-**Version**: 1.0
-**Author**: T Dawg of EECS
-**Date**: 2026-06-30
-
----
-
 ## 1. Overview
 
 The **SOS Recession Detector** is a Python‑based early‑warning system that forecasts U.S. recessions with **100% historical accuracy** (zero false positives, zero false negatives) since 1971. It provides a lead time of **1–4 months** before the NBER officially declares a recession.
