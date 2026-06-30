@@ -1,5 +1,4 @@
 ---
-
 # SOS Recession Detector – Technical Documentation
 
 **Version**: 1.0  
