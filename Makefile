@@ -44,3 +44,8 @@ gitrupdate:
 	git pull --no-rebase
 	chmod 600 sec/*
 
+
+run:
+	python recession_sos/predict.py
+
+
