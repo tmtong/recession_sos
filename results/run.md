@@ -37,4 +37,3 @@ False Negatives: 0  ✅
 ✅ PERFECT: ZERO false positives, ZERO false negatives.
    This program catches every recession since 1971 with early warning.
 ============================================================
-
