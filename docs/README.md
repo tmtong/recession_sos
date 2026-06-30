@@ -1,9 +1,9 @@
 ---
 # SOS Recession Detector – Technical Documentation
 
-**Version**: 1.0  
+**Version**: 1.0
 **Author**: T Dawg of EECS
-**Date**: 2026-06-30  
+**Date**: 2026-06-30
 
 ---
 
