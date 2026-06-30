@@ -13,7 +13,7 @@ warnings.filterwarnings('ignore')
 SOS_MA_WINDOW = 13
 SOS_THRESHOLD = 0.5
 GRACE_MONTHS = 6          # Used only for backtest, not for live alerts
-CACHE_FILE = "fred_data_cache.pkl"
+CACHE_FILE = "data/fred_data_cache.pkl"
 CACHE_TTL_SECONDS = 86400
 with open("sec/keys.json") as f:
     str = f.read()
